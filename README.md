@@ -1,11 +1,13 @@
 Default Google Map account
 ===========================
 
+This tool is based on similar setups for [Google Meet](https://github.com/nilbus/default-google-meet-account). 
+
 Automatically redirect Google Map meetings to a URL with ?authuser=1
 
 This extension is very simple: it defaults Google Meet to use your secondary Google account rather than the primary.
 
-You can switch to other accounts if needed. Based on similar setups for [Google Meet](https://github.com/nilbus/default-google-meet-account). 
+You can switch to other accounts if needed. 
 
 Installation
 ------------
