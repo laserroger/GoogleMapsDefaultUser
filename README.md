@@ -1,7 +1,7 @@
 Default Google Map account
 ===========================
 
-This tool is based on similar setups for [Google Meet](https://github.com/nilbus/default-google-meet-account). 
+This tool is based on a similar tool for [Google Meet](https://github.com/nilbus/default-google-meet-account). The major goal is to incorporate certain function restricted G-suite accounts with other normal Google accounts (for example, seas.upenn.edu accounts are not authorized for using Google maps). 
 
 Automatically redirect Google Map meetings to a URL with ?authuser=1
 
