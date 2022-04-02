@@ -12,7 +12,7 @@ You can switch to other accounts if needed.
 Installation
 ------------
 
-Until this extension is approved for the Google Web Store, you can install this in Chrome via developer mode.
+This extension is now online and you can install this in directly in the [Chrome Web Store](https://chrome.google.com/webstore/detail/default-google-map-accoun/pkbkknjbagnolnildkgiddlobimjndcg?hl=zh-CN&authuser=0). You can also install it manually by:
 
 1. Clone or download & unzip this repository.
 2. Visit chrome://extensions/
