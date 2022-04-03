@@ -1,14 +1,20 @@
 {
   "name": "Default Google Map account",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Automatically redirect Google Map to a URL with ?authuser=1",
-  "permissions": ["webNavigation"],
+  "permissions": ["webNavigation", "storage"],
   "background": {
     "service_worker": "background.js"
   },
   "icons": {
-    "128": "icon.png"
+    "128": "icon128.png"
   },
-  "manifest_version": 3
+  "manifest_version": 3,
+  "action": {
+	  "default_popup": "popup.html",
+	  "default_icon": {
+		  "128": "icon128.png"
+	  }
+  }
 }
 
